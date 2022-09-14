@@ -39,3 +39,5 @@ C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.cspro
 C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CoreCompileInputs.cache
 C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
 C:\Project\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+C:\Users\妄屿\source\repos\gongna-au\Media\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+C:\Users\妄屿\source\repos\gongna-au\Media\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
